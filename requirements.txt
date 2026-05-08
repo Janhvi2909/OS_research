@@ -1,0 +1,8 @@
+# Requirements for Approximate PELT Simulation (Phase 2)
+# Approximate Computing in OS Process Scheduling
+
+# Core simulation — no dependencies beyond Python 3.10+ standard library
+# (math, random, sys, dataclasses are all built-in)
+
+# Optional: for generating error-over-time plots
+matplotlib>=3.7.0
