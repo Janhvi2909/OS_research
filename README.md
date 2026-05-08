@@ -279,5 +279,6 @@ Key references from the Phase 2 report:
 
 ## Author
 
-**Ronit Kumar**  
+**Janhvi Yadav and Ronit Kumar Choudhary**  
 Department of Computer Science and Engineering
+Newton School of Technology
